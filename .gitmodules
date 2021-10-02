@@ -1,0 +1,3 @@
+[submodule "springBoot-light"]
+	path = springBoot-light
+	url = https://github.com/paradigma0621/springBoot-light.git
